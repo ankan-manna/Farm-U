@@ -1,5 +1,6 @@
 const mongoose = require('mongoose');
-const connect = mongoose.connect('mongodb+srv://demouser:123@cluster0.ap4zayq.mongodb.net/CropRecommendation?retryWrites=true&w=majority&appName=Cluster0');
+
+const connect = mongoose.connect('mongodb+srv://ankan108:Ankan2004@cluster0.ap4zayq.mongodb.net/CropRecommendation?retryWrites=true&w=majority&appName=Cluster0');
 connect.then(()=>{
     console.log('Connected Successfully');
 }).catch(err=>{

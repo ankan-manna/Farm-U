@@ -29,4 +29,4 @@ A machine learning-based web application that recommends the most suitable crop 
 1. Clone the repository:
    ```bash
    git clone https://github.com/ankan-manna/Farm-U.git
-   cd crop-recommendation
+
