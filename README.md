@@ -18,11 +18,11 @@ A machine learning-based web application that recommends the most suitable crop 
 
 ## 🧠 Tech Stack
 
-- **Frontend**: HTML, CSS, JavaScript / React *(if used)*
-- **Backend**: Flask / Node.js *(mention your backend tech)*
+- **Frontend**: HTML, CSS, JavaScript, ejs
+- **Backend**: Flask / Node.js / Express.js
 - **Machine Learning**: Python, scikit-learn, pandas, NumPy
-- **Model**: Random Forest / SVM / Logistic Regression *(mention your model)*
-- **Dataset**: Crop recommendation dataset from Kaggle or custom dataset
+- **Model**: Random Forest / SVM 
+- **Dataset**: Crop recommendation dataset from Kaggle o
 
 ## 📦 Installation
 
